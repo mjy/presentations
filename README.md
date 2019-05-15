@@ -1,5 +1,5 @@
-# presentations
-Presentations that contain significant personal opinion that might not reflect my employers
+# presentations by Matt Yoder
+_These are presentations that contain significant personal opinion that might not reflect those my employers_
 
 # 2017
 
