@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Unlocking semantic phenotypes for the masses: a litany of roadblocks</title>
+    
+    <meta name="description" content="Bonn 2019 Workshop: Semantic Data Models in Anatomy" />
+    <meta name="author" content="Matt Yoder" />
+    <link rel="stylesheet" href="extras/highlight/styles/github.css">
+    
+    <link href="css/markdown-slides.css" rel="stylesheet" />
+    <link href="css/effects.css" rel="stylesheet" />
+</head>
+
+<body class="impress-not-supported">
+<div class="fallback-message">
+  <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+  <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+<div id="impress" data-transition-duration="500">
+
+<div id="title-slide" class="step slide title markdown" data-x="2000" data-y="5000">
+# Unlocking semantic phenotypes for the masses: a litany of opportunities
+## Matt Yoder - Bonn, 2017 Semantic Data Models in Anatomy
+
+Source for the [impress.js](https://impress.js.org) version is at 
+</div>
+
+<div id="markdown" class="step slide markdown" data-rel-x="0" data-rel-y="900">
+# A list 
+* 10 things that have consequences for how we model anatomy  
+* Focus on requirements of taxonomy
+* Not all doom and gloom
+-----
+# 0 - An example item
+-----
+# 0 - ... and its Consequences
+* One
+* Two
+* `*` A consequence that requires no action
+* `?` A (more) poorly thought out point
+-----
+# 1 - Taxonomists have published in _natural language_ for over **200 years**
+-----
+# 1 - Consequences
+* * No model is needed?
+* A model must support what they do (diagnose species)
+* A model must let taxonomists flow naturally from NL observations to a formal representation
+* A majority(?) of statements in the model will be lossy
+-----
+# 2 - Life is complex
+-----
+# 2 - Consequences
+* Giant empty matrix, with few links
+* Linking nodes must be very carefully thought out
+* Models must isolate labels from concepts
+* RDF labels are not enough to identify "the same" nodes in disparate named graphs
+* Model must support evolving refinement
+-----
+# 3 - Life is observed once, described, then ignored
+_Most anatomical descriptions will never be revised_
+-----
+# 3 - Consequences
+* Integrating previously described species will require NL processing 
+  * Let's be real- for most species descriptions will not be redone in a "native" semantic format, we simply don't have the time/resources
+* ? While our model's semantics must evolve, the statements/observations behind them won't
+* ? Our model must have "versioning" to reference the NL algorithm that were used
+* Our model must differentiate NL processed statements from "native" statements
+-----
+# 4 - Taxonomists present _species_ descriptions
+-----
+# 4 - Consequences
+* Is it important to provide a model that does more than what taxonomists want to do?
+* Few, though growing numbers of taxonomists, uniquely identify the specimens in their study
+  *  If we can't identify specimens, how are we going to identify their parts
+* An _instance anatomy_ sensu our workshop has never been published
+-----
+# 5 - Reference ontologies (for gross anatomy) do not exist for most of life
+-----
+# 5 - Consequences 
+* ? Instance anatomies can't be merged at finer levels of granularity
+* ? Search/filter will need to be done on values, and therefor be variously unsatisfying
+* We must tackle the problem from top down and bottom up 
+-----
+# 6 - Converting human NL to a model is lossy process 
+-----
+# 6 - Consequences 
+* The model should emphasize _minimizing_ loss of meaning
+* No one model will fix this issue
+* Similarly, conversion between representation models will be lossy, also suggesting minimizing loss is a goal- how to ensure this with model semantics?
+-----
+# 7 - Humans can't agree
+-----
+# 7 - Consequences 
+* Semantics need to be fuzzy enough to draw conclusions across independent observations
+* It is unlikely we can have 1 graph of observations (e.g. instance anatomy) per entity being described
+* Merging/syncing data from the same, or different models remains, as always (sigh), the hardest problem
+-----
+# 8 - Model organisms are described differently
+-----
+# 8 - Consequences 
+* Models must account from difference from "normal"/"wild type" type statements
+* We must work hard to escape from this relative approach less it persist into a more general usage
+-----
+# 9 - All models need interfaces
+-----
+# 9 - Consequences 
+* Interfaces bias what and how models get used
+* Semantic models could be completed buried behind the symbolic representations that are used to capture data
+* Should our model be built to pre-adapt attributes/properties to the "visual" interface that will capture their instances?
+-----
+# 10 - People want to use semantic phenotypes for AI, VR, and other buzzworthy things
+-----
+# 10 - Consequences
+* Data may need specific attributes to make them useful for AI and other approaches
+  * We should talk with Jim/the [SCATE](https://scate.phenoscape.org/) project
+* We need 3D coordinates for anatomy terms
+  * See our [vronto](https://github.com/bioip/vronto) project
+-----
+# 11 - ? Data are always generated with a purpose in mind
+-----
+# 11 - Consequences
+* ? Published descriptions are not "inaccurate" (sensu our discussion in the workshop), they have fulfilled their purpose (and been accepted by a community of peers)
+* ? Even if we model data, we can't escape the baggage that is its original purpose?
+* ? Even in a universal model, some argue that data derived for one purpose are not suitable for another purpose
+-----
+# 12 - URIs/IRIs
+-----
+# 12 - Consequences
+* ? It is hard to _maintain_ and generate _resolvable_ URIs at scale
+  * ? A universal model requires unique ids, this comes with significant issues such as services that ensure minted URIs are indeed unique
+* It is almost certain that we need centrally managed data "lakes"/"oceans"/repositories that our data can find their way to
+-----
+# Conclusion
+* It is important that we look hard at our underlying premises
+  * Do they reflect reality?
+  * Do they reflect how work in biodiversity is actually done?
+  * Do they "scale to biodiversity"?
+  * Do they reflect realistic applications of technology?
+* Keep data representation and data production issues isolated
+* A litany of opportunity requires a pluralist approach to encouraging the use of semantics
+</div>
+
+
+
+</div>
+
+
+<!-- Extra modules
+     Load highlight.js, mermaid.js and markdown.js from extras.
+     See also src/plugins/extras/extras.js -->
+<script type="text/javascript" src="extras/highlight/highlight.pack.js"></script>
+<script type="text/javascript" src="extras/mermaid/mermaid.min.js"></script>
+<script type="text/javascript" src="extras/markdown/markdown.js"></script>
+
+<!--
+    To make all described above really work, you need to include impress.js in the page.
+    You also need to call a `impress().init()` function to initialize impress.js presentation.
+    And you should do it in the end of your document. 
+-->
+<script type="text/javascript" src="js/impress.js"></script>
+<script>impress().init();</script>
+</body>
+</html>
