@@ -1,0 +1,23 @@
+div.loud {
+  background-color: purple;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+a { 
+  color: royalblue;
+}
+
+.black_list {
+background-color: black; color: white; padding: 0.2em;
+}
+
+
