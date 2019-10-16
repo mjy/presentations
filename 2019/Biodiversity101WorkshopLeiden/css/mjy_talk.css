@@ -1,0 +1,54 @@
+div.loud {
+  background-color: purple;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+a { 
+  color: royalblue;
+}
+
+.black_list {
+background-color: black; color: white; padding: 0.2em;
+}
+
+.blue_list {
+  background-color: darkblue; color: white; padding: 0.2em;
+}
+
+.yellow_list {
+  background-color: yellow; color: black; padding: 0.2em;
+}
+
+.bronze_list {
+  background-color: #CD7F32; color: black; padding: 0.2em;
+}
+
+.silver_list {
+  background-color: silver; color: black; padding: 0.2em;
+}
+
+.gold_list {
+  background-color: gold; color: black; padding: 0.2em;
+}
+
+.orange_list {
+  background-color: orange; color: black; padding: 0.2em;
+}
+
+.smaller { 
+  font-size: smaller;
+}
+
+
+
+
+
