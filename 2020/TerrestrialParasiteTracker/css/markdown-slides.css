@@ -178,14 +178,11 @@ img {
 .title h1,
 .title h2,
 .title h3 {
-    position: absolute;
-    left: 45px; /* slide width is 900px, so this is like a 5% margin on both sides */
-    width: 90%;
     text-align: center;    
 }
-.title h1 { top: 50px; }
-.title h2 { top: 400px; }
-.title h3 { top: 500px; }
+.title h4 { 
+    text-align: center;    
+  }
 
 
 
