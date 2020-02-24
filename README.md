@@ -16,4 +16,3 @@ Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentat
 # 2017
 * [TDWG 2017](https://mjy.github.io/presentations/2017/S28_Monday_1430_Yoder_TDWG17.pdf) 
 
-
