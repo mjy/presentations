@@ -1,0 +1,56 @@
+<svg width='640' height='300' viewBox='0 0 640 300' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:a3='http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/' a3:scriptImplementation='Adobe'>
+<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+<!-- Created with SVG::Graph -->
+<!-- SVG::Graph by Sean E. Russell -->
+<!-- Losely based on SVG::TT::Graph for Perl by Leo Lapworth & Stephan Morgan -->
+<!-- //////////////////////////////////////////////////////////////////-->
+<defs/>
+<!--SVG Background-->
+<rect width='640' height='300' x='0' y='0' class='svgBackground' style='fill:#ffffff;'/>
+<g transform='translate( 21.4 26 )'>
+<rect x='0' y='0' width='565.6' height='233' class='graphBackground' style='fill:#f0f0f0;'/>
+<path d='M 0 233 h565.6' class='axis' id='yAxis' style='stroke: #000000; stroke-width: 1px;'/>
+<path d='M 0.0 0 v233' class='axis' id='xAxis' style='stroke: #000000; stroke-width: 1px;'/>
+<text class='xAxisLabels' x='56.56' y='248' style='text-anchor: middle; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: middle'>2014</text>
+<text class='xAxisLabels' x='169.68' y='248' style='text-anchor: middle; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: middle'>2017</text>
+<text class='xAxisLabels' x='282.8' y='248' style='text-anchor: middle; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: middle'>2018</text>
+<text class='xAxisLabels' x='395.92' y='248' style='text-anchor: middle; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: middle'>2019</text>
+<text class='xAxisLabels' x='509.04' y='248' style='text-anchor: middle; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: middle'>2020</text>
+<text x='-3' y='237.0' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>0</text>
+<text x='-3' y='217.58333333333334' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>7</text>
+<text x='-3' y='198.16666666666666' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>15</text>
+<text x='-3' y='178.75' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>22</text>
+<text x='-3' y='159.33333333333331' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>30</text>
+<text x='-3' y='139.91666666666666' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>37</text>
+<text x='-3' y='120.5' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>45</text>
+<text x='-3' y='101.08333333333331' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>52</text>
+<text x='-3' y='81.66666666666666' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>60</text>
+<text x='-3' y='62.25' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>68</text>
+<text x='-3' y='42.833333333333314' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>75</text>
+<text x='-3' y='23.416666666666657' class='yAxisLabels' style='text-anchor: end; fill: #000000; font-size: 12px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end'>83</text>
+<rect x='0.0' y='230.4316578483245' width='103.12' height='2.5683421516754854' class='fill1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<rect x='113.12' y='230.4316578483245' width='103.12' height='2.5683421516754854' class='fill1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<rect x='226.24' y='48.07936507936506' width='103.12' height='184.92063492063494' class='fill1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<rect x='339.36' y='84.03615520282185' width='103.12' height='148.96384479717815' class='fill1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<rect x='452.48' y='76.33112874779539' width='103.12' height='156.6688712522046' class='fill1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<g>
+<text x='51.56' y='224.4316578483245' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal; stroke: #fff; stroke-width: 2;'>1</text>
+<text x='51.56' y='224.4316578483245' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>1</text>
+<text x='164.68' y='224.4316578483245' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal; stroke: #fff; stroke-width: 2;'>1</text>
+<text x='164.68' y='224.4316578483245' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>1</text>
+<text x='277.8' y='42.07936507936506' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal; stroke: #fff; stroke-width: 2;'>72</text>
+<text x='277.8' y='42.07936507936506' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>72</text>
+<text x='390.92' y='78.03615520282185' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal; stroke: #fff; stroke-width: 2;'>58</text>
+<text x='390.92' y='78.03615520282185' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>58</text>
+<text x='504.04' y='70.33112874779539' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal; stroke: #fff; stroke-width: 2;'>61</text>
+<text x='504.04' y='70.33112874779539' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>61</text>
+</g>
+</g>
+<text x='320' y='16' class='mainTitle' style='text-anchor: middle; fill: #000000; font-size: 16px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>Tommy&apos;s collecting</text>
+<text x='304.2' y='288' class='xAxisTitle' style='text-anchor: middle; fill: #ff0000; font-size: 14px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>Type</text>
+<text x='21.0' y='19.0' class='yAxisTitle' style='fill: #ff0000; text-anchor: middle; font-size: 14px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>Count</text>
+<g transform='translate(597.0 36)'>
+<rect x='0' y='0' width='12' height='12' class='key1' style='fill: #ff0000; fill-opacity: 0.5; stroke: none; stroke-width: 0.5px;'/>
+<text x='17' y='12' class='keyText' style='fill: #000000; text-anchor:start; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>Year</text>
+</g>
+</svg>

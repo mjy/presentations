@@ -1,0 +1,1755 @@
+{
+  "nodes": [
+    {
+      "id": "Hennen, Derek",
+      "group": 0
+    },
+    {
+      "id": "Robinson, Jason L.",
+      "group": 0
+    },
+    {
+      "id": "Bilger, Erika",
+      "group": 1
+    },
+    {
+      "id": "Repiscak, Maria",
+      "group": 2
+    },
+    {
+      "id": "Brinckley, Graham",
+      "group": 0
+    },
+    {
+      "id": "Brinckley, Linnea",
+      "group": 1
+    },
+    {
+      "id": "Voss, Renly",
+      "group": 1
+    },
+    {
+      "id": "Voss, Jane",
+      "group": 2
+    },
+    {
+      "id": "McElrath, Karen Ruth",
+      "group": 0
+    },
+    {
+      "id": "McElrath, Anne Elizabeth",
+      "group": 1
+    },
+    {
+      "id": "Johnston, Andrew",
+      "group": 0
+    },
+    {
+      "id": "Hart, Lily",
+      "group": 0
+    },
+    {
+      "id": "Newman, Evan A.",
+      "group": 1
+    },
+    {
+      "id": "DeWalt, R. Edward",
+      "group": 2
+    },
+    {
+      "id": "Heinold, Brian",
+      "group": 3
+    },
+    {
+      "id": "Zimmerman, A. J.",
+      "group": 4
+    },
+    {
+      "id": "Johnson, S. L.",
+      "group": 4
+    },
+    {
+      "id": "Burbank, J.",
+      "group": 4
+    },
+    {
+      "id": "Sangunett, Brandi",
+      "group": 3
+    },
+    {
+      "id": "Pessino, Massimo",
+      "group": 3
+    },
+    {
+      "id": "Hernandez, E. W.",
+      "group": 4
+    },
+    {
+      "id": "Brown, M. M.",
+      "group": 5
+    },
+    {
+      "id": "Hernandez, E.",
+      "group": 6
+    },
+    {
+      "id": "Ferguson, S.K.",
+      "group": 3
+    },
+    {
+      "id": "McQuaid, Jacob",
+      "group": 3
+    },
+    {
+      "id": "South, Eric J.",
+      "group": 4
+    },
+    {
+      "id": "Kondratieff, Boris C.",
+      "group": 5
+    },
+    {
+      "id": "Verdone, C.",
+      "group": 6
+    },
+    {
+      "id": "Griffin, O.",
+      "group": 7
+    },
+    {
+      "id": "Sandberg, J. B.",
+      "group": 6
+    },
+    {
+      "id": "Kirchner, Ralph F.",
+      "group": 6
+    },
+    {
+      "id": "Zuellig, Robert E.",
+      "group": 7
+    },
+    {
+      "id": "Gamble, Nicole",
+      "group": 5
+    },
+    {
+      "id": "Lukens, Kaleb",
+      "group": 5
+    },
+    {
+      "id": "Smith, J. M",
+      "group": 3
+    },
+    {
+      "id": "Smith, E. J.",
+      "group": 3
+    },
+    {
+      "id": "Chabot, Ember T.",
+      "group": 3
+    },
+    {
+      "id": "Harper, Pierre Paul",
+      "group": 3
+    },
+    {
+      "id": "Alsterlund, J. F.",
+      "group": 4
+    },
+    {
+      "id": "Shelford, Victor Ernest",
+      "group": 5
+    },
+    {
+      "id": "Riegel, G.",
+      "group": 6
+    },
+    {
+      "id": "Burke, Horace R.",
+      "group": 7
+    },
+    {
+      "id": "Ross, Herbert Holdsworth",
+      "group": 8
+    },
+    {
+      "id": "Burks, B. D.",
+      "group": 9
+    },
+    {
+      "id": "Mohr, C.O.",
+      "group": 10
+    },
+    {
+      "id": "Burks, B.D.",
+      "group": 11
+    },
+    {
+      "id": "Riegel, Garland Tavner",
+      "group": 11
+    },
+    {
+      "id": "Musselman, T.E.",
+      "group": 12
+    },
+    {
+      "id": "Frison, Theodore Henry",
+      "group": 11
+    },
+    {
+      "id": "DeLong, Dwight Moore",
+      "group": 12
+    },
+    {
+      "id": "Sanderson, Milton W.",
+      "group": 12
+    },
+    {
+      "id": "Leighton",
+      "group": 13
+    },
+    {
+      "id": "Stannard, Lewis J.",
+      "group": 13
+    },
+    {
+      "id": "Goodnight, Clarence James",
+      "group": 14
+    },
+    {
+      "id": "Goodnight, Marie Louise",
+      "group": 15
+    },
+    {
+      "id": "Page, L.M.",
+      "group": 14
+    },
+    {
+      "id": "Webb, Donald Wayne",
+      "group": 15
+    },
+    {
+      "id": "Vogt, Tim",
+      "group": 16
+    },
+    {
+      "id": "Page",
+      "group": 16
+    },
+    {
+      "id": "Vogt",
+      "group": 17
+    },
+    {
+      "id": "Irwin, Michael E.",
+      "group": 16
+    },
+    {
+      "id": "Gaimari, Stephen D.",
+      "group": 17
+    },
+    {
+      "id": "Metz, Mark A.",
+      "group": 18
+    },
+    {
+      "id": "Holston, Kevin",
+      "group": 19
+    },
+    {
+      "id": "Yang, Liyuan",
+      "group": 20
+    },
+    {
+      "id": "Winterton, Shaun L",
+      "group": 21
+    },
+    {
+      "id": "Schlinger, Evert I.",
+      "group": 17
+    },
+    {
+      "id": "Rasolondaloa, H.H.",
+      "group": 18
+    },
+    {
+      "id": "Maddox, J.V.",
+      "group": 18
+    },
+    {
+      "id": "Barria, G.",
+      "group": 17
+    },
+    {
+      "id": "Figueroa, O.",
+      "group": 17
+    },
+    {
+      "id": "Brigham, W.U.",
+      "group": 16
+    },
+    {
+      "id": "Brigham, A.R.",
+      "group": 17
+    },
+    {
+      "id": "Wetzel, Mark J.",
+      "group": 18
+    },
+    {
+      "id": "Harris, Mitchell A.",
+      "group": 19
+    },
+    {
+      "id": "Taylor, C.",
+      "group": 20
+    },
+    {
+      "id": "Kitchel, H.E.",
+      "group": 21
+    },
+    {
+      "id": "Butcher, Mathew",
+      "group": 19
+    },
+    {
+      "id": "Unzicker, J. D.",
+      "group": 18
+    },
+    {
+      "id": "Webb, Michael Donald",
+      "group": 19
+    },
+    {
+      "id": "Wingo, Curtis W.",
+      "group": 20
+    },
+    {
+      "id": "Rotramel, G.L.",
+      "group": 19
+    },
+    {
+      "id": "Rotramel, A.S.",
+      "group": 20
+    },
+    {
+      "id": "Moran, R.L.",
+      "group": 18
+    },
+    {
+      "id": "Sherrod, John",
+      "group": 16
+    },
+    {
+      "id": "Steinly, B.A.",
+      "group": 17
+    },
+    {
+      "id": "Taylor, Steve",
+      "group": 16
+    },
+    {
+      "id": "Krejca, J.K.",
+      "group": 17
+    },
+    {
+      "id": "Coons, D.",
+      "group": 18
+    },
+    {
+      "id": "Storm, Laura",
+      "group": 18
+    },
+    {
+      "id": "Moss, Philip",
+      "group": 19
+    },
+    {
+      "id": "Tinerella, Paul",
+      "group": 17
+    },
+    {
+      "id": "Gordon, Robert D.",
+      "group": 18
+    },
+    {
+      "id": "Wetzel, W. J.",
+      "group": 16
+    },
+    {
+      "id": "Lancaster, E",
+      "group": 17
+    },
+    {
+      "id": "Moore, T.E.",
+      "group": 14
+    },
+    {
+      "id": "Smith, P.W.",
+      "group": 15
+    },
+    {
+      "id": "Alexander, Richard D.",
+      "group": 15
+    },
+    {
+      "id": "Alexander, C.P.",
+      "group": 15
+    },
+    {
+      "id": "Evers, R.A.",
+      "group": 14
+    },
+    {
+      "id": "Richards, W. R.",
+      "group": 14
+    },
+    {
+      "id": "Clark, Wayne E.",
+      "group": 14
+    },
+    {
+      "id": "Kaiser",
+      "group": 14
+    },
+    {
+      "id": "Bouseman, John K.",
+      "group": 14
+    },
+    {
+      "id": "Selander, Richard B.",
+      "group": 15
+    },
+    {
+      "id": "Selander, J.M.",
+      "group": 16
+    },
+    {
+      "id": "Schaffner, Joseph C.",
+      "group": 16
+    },
+    {
+      "id": "Selander, R.K.",
+      "group": 16
+    },
+    {
+      "id": "Sedman, Yale",
+      "group": 17
+    },
+    {
+      "id": "Sonoran, L.",
+      "group": 18
+    },
+    {
+      "id": "Valentine, Barry D.",
+      "group": 14
+    },
+    {
+      "id": "Preisner",
+      "group": 14
+    },
+    {
+      "id": "Priesner, H.",
+      "group": 14
+    },
+    {
+      "id": "King",
+      "group": 14
+    },
+    {
+      "id": "Williams",
+      "group": 14
+    },
+    {
+      "id": "Mills, Harlow B.",
+      "group": 14
+    },
+    {
+      "id": "Wasson",
+      "group": 15
+    },
+    {
+      "id": "Richards, W.R.",
+      "group": 14
+    },
+    {
+      "id": "Prov., L.V.",
+      "group": 13
+    },
+    {
+      "id": "Farr",
+      "group": 13
+    },
+    {
+      "id": "Sommerman",
+      "group": 13
+    },
+    {
+      "id": "Glasgow, R.D.",
+      "group": 12
+    },
+    {
+      "id": "Hayes, Willaim Patrick",
+      "group": 12
+    },
+    {
+      "id": "Siverley",
+      "group": 13
+    },
+    {
+      "id": "Hunt",
+      "group": 12
+    },
+    {
+      "id": "Yeatter",
+      "group": 12
+    },
+    {
+      "id": "Leigh",
+      "group": 13
+    },
+    {
+      "id": "Leigh, W. H.",
+      "group": 13
+    },
+    {
+      "id": "Townsend, L.H.",
+      "group": 11
+    },
+    {
+      "id": "Labisky",
+      "group": 11
+    },
+    {
+      "id": "Pearson, E.W.",
+      "group": 11
+    },
+    {
+      "id": "Ayars, James S.",
+      "group": 11
+    },
+    {
+      "id": "VanCleave, H.J.",
+      "group": 11
+    },
+    {
+      "id": "Farrar, Milton Dyer",
+      "group": 11
+    },
+    {
+      "id": "Boesel, M. W.",
+      "group": 10
+    },
+    {
+      "id": "Rigel",
+      "group": 10
+    },
+    {
+      "id": "Riegel",
+      "group": 10
+    },
+    {
+      "id": "Ries, D.T.",
+      "group": 9
+    },
+    {
+      "id": "Kimmins, Douglas Eric",
+      "group": 9
+    },
+    {
+      "id": "Mohr, Carl O.",
+      "group": 9
+    },
+    {
+      "id": "Dozier, Herbert Lawrence",
+      "group": 10
+    },
+    {
+      "id": "Park, O.",
+      "group": 11
+    },
+    {
+      "id": "Ross, J.A.",
+      "group": 9
+    },
+    {
+      "id": "Kingsolver, John M.",
+      "group": 9
+    },
+    {
+      "id": "Ross",
+      "group": 9
+    },
+    {
+      "id": "Beaver, P.",
+      "group": 5
+    },
+    {
+      "id": "Snyder, E. D.",
+      "group": 3
+    },
+    {
+      "id": "Beinlich, Julia",
+      "group": 4
+    },
+    {
+      "id": "Jaureguy, J.",
+      "group": 3
+    },
+    {
+      "id": "Nelson, A. J.",
+      "group": 4
+    },
+    {
+      "id": "Yoder, Matthew Jon",
+      "group": 5
+    },
+    {
+      "id": "Dmitriev, Dmitry Alexandrovich",
+      "group": 6
+    },
+    {
+      "id": "Newman, Evan A.",
+      "group": 3
+    },
+    {
+      "id": "Clem, C. Scott",
+      "group": 2
+    },
+    {
+      "id": "Blount, Joni",
+      "group": 0
+    },
+    {
+      "id": "Grinter, Christopher C.",
+      "group": 0
+    },
+    {
+      "id": "Kline, Haley",
+      "group": 1
+    },
+    {
+      "id": "Leschen, Richard A. B.",
+      "group": 0
+    },
+    {
+      "id": "Ellis, Matthew B.",
+      "group": 0
+    }
+  ],
+  "links": [
+    {
+      "source_id": 55281,
+      "target_id": 62308,
+      "source": "McElrath, Thomas Christian",
+      "target": "Hennen, Derek",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 49522,
+      "source": "McElrath, Thomas Christian",
+      "target": "Robinson, Jason L.",
+      "value": 1
+    },
+    {
+      "source_id": 49522,
+      "target_id": 62302,
+      "source": "Robinson, Jason L.",
+      "target": "Bilger, Erika",
+      "value": 1
+    },
+    {
+      "source_id": 62302,
+      "target_id": 78290,
+      "source": "Bilger, Erika",
+      "target": "Repiscak, Maria",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 66110,
+      "source": "McElrath, Thomas Christian",
+      "target": "Brinckley, Graham",
+      "value": 1
+    },
+    {
+      "source_id": 66110,
+      "target_id": 66111,
+      "source": "Brinckley, Graham",
+      "target": "Brinckley, Linnea",
+      "value": 1
+    },
+    {
+      "source_id": 66110,
+      "target_id": 78731,
+      "source": "Brinckley, Graham",
+      "target": "Voss, Renly",
+      "value": 1
+    },
+    {
+      "source_id": 78731,
+      "target_id": 78732,
+      "source": "Voss, Renly",
+      "target": "Voss, Jane",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 66246,
+      "source": "McElrath, Thomas Christian",
+      "target": "McElrath, Karen Ruth",
+      "value": 1
+    },
+    {
+      "source_id": 66246,
+      "target_id": 78280,
+      "source": "McElrath, Karen Ruth",
+      "target": "McElrath, Anne Elizabeth",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 62706,
+      "source": "McElrath, Thomas Christian",
+      "target": "Johnston, Andrew",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 62297,
+      "source": "McElrath, Thomas Christian",
+      "target": "Hart, Lily",
+      "value": 1
+    },
+    {
+      "source_id": 62297,
+      "target_id": 62270,
+      "source": "Hart, Lily",
+      "target": "Newman, Evan A.",
+      "value": 1
+    },
+    {
+      "source_id": 62270,
+      "target_id": 61279,
+      "source": "Newman, Evan A.",
+      "target": "DeWalt, R. Edward",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 61464,
+      "source": "DeWalt, R. Edward",
+      "target": "Heinold, Brian",
+      "value": 1
+    },
+    {
+      "source_id": 61464,
+      "target_id": 102581,
+      "source": "Heinold, Brian",
+      "target": "Zimmerman, A. J.",
+      "value": 1
+    },
+    {
+      "source_id": 61464,
+      "target_id": 102582,
+      "source": "Heinold, Brian",
+      "target": "Johnson, S. L.",
+      "value": 1
+    },
+    {
+      "source_id": 61464,
+      "target_id": 62417,
+      "source": "Heinold, Brian",
+      "target": "Burbank, J.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 49624,
+      "source": "DeWalt, R. Edward",
+      "target": "Sangunett, Brandi",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 29034,
+      "source": "DeWalt, R. Edward",
+      "target": "Pessino, Massimo",
+      "value": 1
+    },
+    {
+      "source_id": 29034,
+      "target_id": 79825,
+      "source": "Pessino, Massimo",
+      "target": "Hernandez, E. W.",
+      "value": 1
+    },
+    {
+      "source_id": 79825,
+      "target_id": 79824,
+      "source": "Hernandez, E. W.",
+      "target": "Brown, M. M.",
+      "value": 1
+    },
+    {
+      "source_id": 79824,
+      "target_id": 79968,
+      "source": "Brown, M. M.",
+      "target": "Hernandez, E.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 78297,
+      "source": "DeWalt, R. Edward",
+      "target": "Ferguson, S.K.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 61818,
+      "source": "DeWalt, R. Edward",
+      "target": "McQuaid, Jacob",
+      "value": 1
+    },
+    {
+      "source_id": 61818,
+      "target_id": 29110,
+      "source": "McQuaid, Jacob",
+      "target": "South, Eric J.",
+      "value": 1
+    },
+    {
+      "source_id": 29110,
+      "target_id": 61375,
+      "source": "South, Eric J.",
+      "target": "Kondratieff, Boris C.",
+      "value": 1
+    },
+    {
+      "source_id": 61375,
+      "target_id": 29154,
+      "source": "Kondratieff, Boris C.",
+      "target": "Verdone, C.",
+      "value": 1
+    },
+    {
+      "source_id": 29154,
+      "target_id": 80691,
+      "source": "Verdone, C.",
+      "target": "Griffin, O.",
+      "value": 1
+    },
+    {
+      "source_id": 61375,
+      "target_id": 29167,
+      "source": "Kondratieff, Boris C.",
+      "target": "Sandberg, J. B.",
+      "value": 1
+    },
+    {
+      "source_id": 61375,
+      "target_id": 29015,
+      "source": "Kondratieff, Boris C.",
+      "target": "Kirchner, Ralph F.",
+      "value": 1
+    },
+    {
+      "source_id": 29015,
+      "target_id": 49658,
+      "source": "Kirchner, Ralph F.",
+      "target": "Zuellig, Robert E.",
+      "value": 1
+    },
+    {
+      "source_id": 29110,
+      "target_id": 62318,
+      "source": "South, Eric J.",
+      "target": "Gamble, Nicole",
+      "value": 1
+    },
+    {
+      "source_id": 29110,
+      "target_id": 62201,
+      "source": "South, Eric J.",
+      "target": "Lukens, Kaleb",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 80063,
+      "source": "DeWalt, R. Edward",
+      "target": "Smith, J. M",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 79919,
+      "source": "DeWalt, R. Edward",
+      "target": "Smith, E. J.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 29035,
+      "source": "DeWalt, R. Edward",
+      "target": "Chabot, Ember T.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 61065,
+      "source": "DeWalt, R. Edward",
+      "target": "Harper, Pierre Paul",
+      "value": 1
+    },
+    {
+      "source_id": 61065,
+      "target_id": 80723,
+      "source": "Harper, Pierre Paul",
+      "target": "Alsterlund, J. F.",
+      "value": 1
+    },
+    {
+      "source_id": 80723,
+      "target_id": 43841,
+      "source": "Alsterlund, J. F.",
+      "target": "Shelford, Victor Ernest",
+      "value": 1
+    },
+    {
+      "source_id": 43841,
+      "target_id": 60585,
+      "source": "Shelford, Victor Ernest",
+      "target": "Riegel, G.",
+      "value": 1
+    },
+    {
+      "source_id": 60585,
+      "target_id": 60594,
+      "source": "Riegel, G.",
+      "target": "Burke, Horace R.",
+      "value": 1
+    },
+    {
+      "source_id": 60594,
+      "target_id": 42958,
+      "source": "Burke, Horace R.",
+      "target": "Ross, Herbert Holdsworth",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 29107,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Burks, B. D.",
+      "value": 1
+    },
+    {
+      "source_id": 29107,
+      "target_id": 40100,
+      "source": "Burks, B. D.",
+      "target": "Mohr, C.O.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 30997,
+      "source": "Mohr, C.O.",
+      "target": "Burks, B.D.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 42737,
+      "source": "Mohr, C.O.",
+      "target": "Riegel, Garland Tavner",
+      "value": 1
+    },
+    {
+      "source_id": 42737,
+      "target_id": 78893,
+      "source": "Riegel, Garland Tavner",
+      "target": "Musselman, T.E.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 33913,
+      "source": "Mohr, C.O.",
+      "target": "Frison, Theodore Henry",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 32647,
+      "source": "Frison, Theodore Henry",
+      "target": "DeLong, Dwight Moore",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 61847,
+      "source": "Frison, Theodore Henry",
+      "target": "Sanderson, Milton W.",
+      "value": 1
+    },
+    {
+      "source_id": 61847,
+      "target_id": 66089,
+      "source": "Sanderson, Milton W.",
+      "target": "Leighton",
+      "value": 1
+    },
+    {
+      "source_id": 61847,
+      "target_id": 65585,
+      "source": "Sanderson, Milton W.",
+      "target": "Stannard, Lewis J.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 312,
+      "source": "Stannard, Lewis J.",
+      "target": "Goodnight, Clarence James",
+      "value": 1
+    },
+    {
+      "source_id": 312,
+      "target_id": 377,
+      "source": "Goodnight, Clarence James",
+      "target": "Goodnight, Marie Louise",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 65586,
+      "source": "Stannard, Lewis J.",
+      "target": "Page, L.M.",
+      "value": 1
+    },
+    {
+      "source_id": 65586,
+      "target_id": 29111,
+      "source": "Page, L.M.",
+      "target": "Webb, Donald Wayne",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 61209,
+      "source": "Webb, Donald Wayne",
+      "target": "Vogt, Tim",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 78995,
+      "source": "Webb, Donald Wayne",
+      "target": "Page",
+      "value": 1
+    },
+    {
+      "source_id": 78995,
+      "target_id": 78996,
+      "source": "Page",
+      "target": "Vogt",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 60796,
+      "source": "Webb, Donald Wayne",
+      "target": "Irwin, Michael E.",
+      "value": 1
+    },
+    {
+      "source_id": 60796,
+      "target_id": 60791,
+      "source": "Irwin, Michael E.",
+      "target": "Gaimari, Stephen D.",
+      "value": 1
+    },
+    {
+      "source_id": 60791,
+      "target_id": 60790,
+      "source": "Gaimari, Stephen D.",
+      "target": "Metz, Mark A.",
+      "value": 1
+    },
+    {
+      "source_id": 60790,
+      "target_id": 61268,
+      "source": "Metz, Mark A.",
+      "target": "Holston, Kevin",
+      "value": 1
+    },
+    {
+      "source_id": 61268,
+      "target_id": 65840,
+      "source": "Holston, Kevin",
+      "target": "Yang, Liyuan",
+      "value": 1
+    },
+    {
+      "source_id": 65840,
+      "target_id": 60877,
+      "source": "Yang, Liyuan",
+      "target": "Winterton, Shaun L",
+      "value": 1
+    },
+    {
+      "source_id": 60796,
+      "target_id": 61398,
+      "source": "Irwin, Michael E.",
+      "target": "Schlinger, Evert I.",
+      "value": 1
+    },
+    {
+      "source_id": 61398,
+      "target_id": 78730,
+      "source": "Schlinger, Evert I.",
+      "target": "Rasolondaloa, H.H.",
+      "value": 1
+    },
+    {
+      "source_id": 61398,
+      "target_id": 39091,
+      "source": "Schlinger, Evert I.",
+      "target": "Maddox, J.V.",
+      "value": 1
+    },
+    {
+      "source_id": 60796,
+      "target_id": 93959,
+      "source": "Irwin, Michael E.",
+      "target": "Barria, G.",
+      "value": 1
+    },
+    {
+      "source_id": 60796,
+      "target_id": 78465,
+      "source": "Irwin, Michael E.",
+      "target": "Figueroa, O.",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 78289,
+      "source": "Webb, Donald Wayne",
+      "target": "Brigham, W.U.",
+      "value": 1
+    },
+    {
+      "source_id": 78289,
+      "target_id": 78287,
+      "source": "Brigham, W.U.",
+      "target": "Brigham, A.R.",
+      "value": 1
+    },
+    {
+      "source_id": 78287,
+      "target_id": 61449,
+      "source": "Brigham, A.R.",
+      "target": "Wetzel, Mark J.",
+      "value": 1
+    },
+    {
+      "source_id": 61449,
+      "target_id": 29112,
+      "source": "Wetzel, Mark J.",
+      "target": "Harris, Mitchell A.",
+      "value": 1
+    },
+    {
+      "source_id": 29112,
+      "target_id": 78269,
+      "source": "Harris, Mitchell A.",
+      "target": "Taylor, C.",
+      "value": 1
+    },
+    {
+      "source_id": 78269,
+      "target_id": 79001,
+      "source": "Taylor, C.",
+      "target": "Kitchel, H.E.",
+      "value": 1
+    },
+    {
+      "source_id": 61449,
+      "target_id": 79149,
+      "source": "Wetzel, Mark J.",
+      "target": "Butcher, Mathew",
+      "value": 1
+    },
+    {
+      "source_id": 78287,
+      "target_id": 59213,
+      "source": "Brigham, A.R.",
+      "target": "Unzicker, J. D.",
+      "value": 1
+    },
+    {
+      "source_id": 59213,
+      "target_id": 46583,
+      "source": "Unzicker, J. D.",
+      "target": "Webb, Michael Donald",
+      "value": 1
+    },
+    {
+      "source_id": 46583,
+      "target_id": 60961,
+      "source": "Webb, Michael Donald",
+      "target": "Wingo, Curtis W.",
+      "value": 1
+    },
+    {
+      "source_id": 59213,
+      "target_id": 78740,
+      "source": "Unzicker, J. D.",
+      "target": "Rotramel, G.L.",
+      "value": 1
+    },
+    {
+      "source_id": 78740,
+      "target_id": 79887,
+      "source": "Rotramel, G.L.",
+      "target": "Rotramel, A.S.",
+      "value": 1
+    },
+    {
+      "source_id": 78287,
+      "target_id": 78288,
+      "source": "Brigham, A.R.",
+      "target": "Moran, R.L.",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 61308,
+      "source": "Webb, Donald Wayne",
+      "target": "Sherrod, John",
+      "value": 1
+    },
+    {
+      "source_id": 61308,
+      "target_id": 78751,
+      "source": "Sherrod, John",
+      "target": "Steinly, B.A.",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 61254,
+      "source": "Webb, Donald Wayne",
+      "target": "Taylor, Steve",
+      "value": 1
+    },
+    {
+      "source_id": 61254,
+      "target_id": 65967,
+      "source": "Taylor, Steve",
+      "target": "Krejca, J.K.",
+      "value": 1
+    },
+    {
+      "source_id": 65967,
+      "target_id": 92203,
+      "source": "Krejca, J.K.",
+      "target": "Coons, D.",
+      "value": 1
+    },
+    {
+      "source_id": 65967,
+      "target_id": 78861,
+      "source": "Krejca, J.K.",
+      "target": "Storm, Laura",
+      "value": 1
+    },
+    {
+      "source_id": 78861,
+      "target_id": 78862,
+      "source": "Storm, Laura",
+      "target": "Moss, Philip",
+      "value": 1
+    },
+    {
+      "source_id": 61254,
+      "target_id": 61410,
+      "source": "Taylor, Steve",
+      "target": "Tinerella, Paul",
+      "value": 1
+    },
+    {
+      "source_id": 61410,
+      "target_id": 60672,
+      "source": "Tinerella, Paul",
+      "target": "Gordon, Robert D.",
+      "value": 1
+    },
+    {
+      "source_id": 29111,
+      "target_id": 92117,
+      "source": "Webb, Donald Wayne",
+      "target": "Wetzel, W. J.",
+      "value": 1
+    },
+    {
+      "source_id": 92117,
+      "target_id": 92118,
+      "source": "Wetzel, W. J.",
+      "target": "Lancaster, E",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 40171,
+      "source": "Stannard, Lewis J.",
+      "target": "Moore, T.E.",
+      "value": 1
+    },
+    {
+      "source_id": 40171,
+      "target_id": 78986,
+      "source": "Moore, T.E.",
+      "target": "Smith, P.W.",
+      "value": 1
+    },
+    {
+      "source_id": 40171,
+      "target_id": 61886,
+      "source": "Moore, T.E.",
+      "target": "Alexander, Richard D.",
+      "value": 1
+    },
+    {
+      "source_id": 40171,
+      "target_id": 54436,
+      "source": "Moore, T.E.",
+      "target": "Alexander, C.P.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 78881,
+      "source": "Stannard, Lewis J.",
+      "target": "Evers, R.A.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 62125,
+      "source": "Stannard, Lewis J.",
+      "target": "Richards, W. R.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 60597,
+      "source": "Stannard, Lewis J.",
+      "target": "Clark, Wayne E.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 79983,
+      "source": "Stannard, Lewis J.",
+      "target": "Kaiser",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 60842,
+      "source": "Stannard, Lewis J.",
+      "target": "Bouseman, John K.",
+      "value": 1
+    },
+    {
+      "source_id": 60842,
+      "target_id": 60912,
+      "source": "Bouseman, John K.",
+      "target": "Selander, Richard B.",
+      "value": 1
+    },
+    {
+      "source_id": 60912,
+      "target_id": 80726,
+      "source": "Selander, Richard B.",
+      "target": "Selander, J.M.",
+      "value": 1
+    },
+    {
+      "source_id": 60912,
+      "target_id": 60899,
+      "source": "Selander, Richard B.",
+      "target": "Schaffner, Joseph C.",
+      "value": 1
+    },
+    {
+      "source_id": 60912,
+      "target_id": 78282,
+      "source": "Selander, Richard B.",
+      "target": "Selander, R.K.",
+      "value": 1
+    },
+    {
+      "source_id": 78282,
+      "target_id": 62188,
+      "source": "Selander, R.K.",
+      "target": "Sedman, Yale",
+      "value": 1
+    },
+    {
+      "source_id": 62188,
+      "target_id": 78283,
+      "source": "Sedman, Yale",
+      "target": "Sonoran, L.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 60943,
+      "source": "Stannard, Lewis J.",
+      "target": "Valentine, Barry D.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 79814,
+      "source": "Stannard, Lewis J.",
+      "target": "Preisner",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 42029,
+      "source": "Stannard, Lewis J.",
+      "target": "Priesner, H.",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 80038,
+      "source": "Stannard, Lewis J.",
+      "target": "King",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 80044,
+      "source": "Stannard, Lewis J.",
+      "target": "Williams",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 62077,
+      "source": "Stannard, Lewis J.",
+      "target": "Mills, Harlow B.",
+      "value": 1
+    },
+    {
+      "source_id": 62077,
+      "target_id": 79597,
+      "source": "Mills, Harlow B.",
+      "target": "Wasson",
+      "value": 1
+    },
+    {
+      "source_id": 65585,
+      "target_id": 42707,
+      "source": "Stannard, Lewis J.",
+      "target": "Richards, W.R.",
+      "value": 1
+    },
+    {
+      "source_id": 61847,
+      "target_id": 65850,
+      "source": "Sanderson, Milton W.",
+      "target": "Prov., L.V.",
+      "value": 1
+    },
+    {
+      "source_id": 61847,
+      "target_id": 65873,
+      "source": "Sanderson, Milton W.",
+      "target": "Farr",
+      "value": 1
+    },
+    {
+      "source_id": 61847,
+      "target_id": 78736,
+      "source": "Sanderson, Milton W.",
+      "target": "Sommerman",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 78904,
+      "source": "Frison, Theodore Henry",
+      "target": "Glasgow, R.D.",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 35284,
+      "source": "Frison, Theodore Henry",
+      "target": "Hayes, Willaim Patrick",
+      "value": 1
+    },
+    {
+      "source_id": 35284,
+      "target_id": 92387,
+      "source": "Hayes, Willaim Patrick",
+      "target": "Siverley",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 942,
+      "source": "Frison, Theodore Henry",
+      "target": "Hunt",
+      "value": 1
+    },
+    {
+      "source_id": 33913,
+      "target_id": 79900,
+      "source": "Frison, Theodore Henry",
+      "target": "Yeatter",
+      "value": 1
+    },
+    {
+      "source_id": 79900,
+      "target_id": 79901,
+      "source": "Yeatter",
+      "target": "Leigh",
+      "value": 1
+    },
+    {
+      "source_id": 79900,
+      "target_id": 92480,
+      "source": "Yeatter",
+      "target": "Leigh, W. H.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 45565,
+      "source": "Mohr, C.O.",
+      "target": "Townsend, L.H.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 79818,
+      "source": "Mohr, C.O.",
+      "target": "Labisky",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 79619,
+      "source": "Mohr, C.O.",
+      "target": "Pearson, E.W.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 79806,
+      "source": "Mohr, C.O.",
+      "target": "Ayars, James S.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 78867,
+      "source": "Mohr, C.O.",
+      "target": "VanCleave, H.J.",
+      "value": 1
+    },
+    {
+      "source_id": 40100,
+      "target_id": 33528,
+      "source": "Mohr, C.O.",
+      "target": "Farrar, Milton Dyer",
+      "value": 1
+    },
+    {
+      "source_id": 29107,
+      "target_id": 66039,
+      "source": "Burks, B. D.",
+      "target": "Boesel, M. W.",
+      "value": 1
+    },
+    {
+      "source_id": 29107,
+      "target_id": 79560,
+      "source": "Burks, B. D.",
+      "target": "Rigel",
+      "value": 1
+    },
+    {
+      "source_id": 29107,
+      "target_id": 93985,
+      "source": "Burks, B. D.",
+      "target": "Riegel",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 59725,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Ries, D.T.",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 66055,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Kimmins, Douglas Eric",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 62081,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Mohr, Carl O.",
+      "value": 1
+    },
+    {
+      "source_id": 62081,
+      "target_id": 32993,
+      "source": "Mohr, Carl O.",
+      "target": "Dozier, Herbert Lawrence",
+      "value": 1
+    },
+    {
+      "source_id": 32993,
+      "target_id": 41403,
+      "source": "Dozier, Herbert Lawrence",
+      "target": "Park, O.",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 65941,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Ross, J.A.",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 60993,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Kingsolver, John M.",
+      "value": 1
+    },
+    {
+      "source_id": 42958,
+      "target_id": 78927,
+      "source": "Ross, Herbert Holdsworth",
+      "target": "Ross",
+      "value": 1
+    },
+    {
+      "source_id": 80723,
+      "target_id": 79986,
+      "source": "Alsterlund, J. F.",
+      "target": "Beaver, P.",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 79853,
+      "source": "DeWalt, R. Edward",
+      "target": "Snyder, E. D.",
+      "value": 1
+    },
+    {
+      "source_id": 79853,
+      "target_id": 62279,
+      "source": "Snyder, E. D.",
+      "target": "Beinlich, Julia",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 79965,
+      "source": "DeWalt, R. Edward",
+      "target": "Jaureguy, J.",
+      "value": 1
+    },
+    {
+      "source_id": 79965,
+      "target_id": 79966,
+      "source": "Jaureguy, J.",
+      "target": "Nelson, A. J.",
+      "value": 1
+    },
+    {
+      "source_id": 79966,
+      "target_id": 61372,
+      "source": "Nelson, A. J.",
+      "target": "Yoder, Matthew Jon",
+      "value": 1
+    },
+    {
+      "source_id": 61372,
+      "target_id": 32878,
+      "source": "Yoder, Matthew Jon",
+      "target": "Dmitriev, Dmitry Alexandrovich",
+      "value": 1
+    },
+    {
+      "source_id": 61279,
+      "target_id": 78864,
+      "source": "DeWalt, R. Edward",
+      "target": "Newman, Evan A.",
+      "value": 1
+    },
+    {
+      "source_id": 62270,
+      "target_id": 89017,
+      "source": "Newman, Evan A.",
+      "target": "Clem, C. Scott",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 78281,
+      "source": "McElrath, Thomas Christian",
+      "target": "Blount, Joni",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 62199,
+      "source": "McElrath, Thomas Christian",
+      "target": "Grinter, Christopher C.",
+      "value": 1
+    },
+    {
+      "source_id": 62199,
+      "target_id": 62464,
+      "source": "Grinter, Christopher C.",
+      "target": "Kline, Haley",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 54430,
+      "source": "McElrath, Thomas Christian",
+      "target": "Leschen, Richard A. B.",
+      "value": 1
+    },
+    {
+      "source_id": 55281,
+      "target_id": 93300,
+      "source": "McElrath, Thomas Christian",
+      "target": "Ellis, Matthew B.",
+      "value": 1
+    }
+  ]
+}
