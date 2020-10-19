@@ -5,6 +5,9 @@ Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentat
 
 # 2020
 * [Terrestrial Parasite Tracker Kickoff](https://mjy.github.io/presentations/2020/TerrestrialParasiteTracker/index.html) 
+* [TDWG Poster](https://github.com/mjy/presentations/tree/master/2020/tdwg_poster)
+  * [Biss](https://biss.pensoft.net/article/59170)
+
 
 # 2019
 * [Are Software Standards possible for Biodiversity, and What Would They Mean to the Fractured Landscape of Biodiversity Virtual Research Environments?](https://mjy.github.io/presentations/2019/BiodiversityNext/Yoder_Biodiversity_Next_2019.pdf) for Biodiversity Next, Leiden.  Abstract etc. also at [https://doi.org/10.3897/biss.3.37375](https://doi.org/10.3897/biss.3.37375) 
