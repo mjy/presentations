@@ -5,6 +5,7 @@ Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentat
 
 # 2020
 * [Terrestrial Parasite Tracker Kickoff](https://mjy.github.io/presentations/2020/TerrestrialParasiteTracker/index.html) 
+* [TDWG Talk](https://github.com/mjy/presentations/tree/master/2020/tdwg_talk)
 * [TDWG Poster](https://github.com/mjy/presentations/tree/master/2020/tdwg_poster)
   * [Biss](https://biss.pensoft.net/article/59170)
 

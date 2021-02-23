@@ -1,7 +1,7 @@
 
 # TDWG_2020 Poster
 
-Code, data, and experiments generated while building the poster.
+Code, data, and experiments generated while building the poster.  See the git log for exact timing about the state of the code at submission. There was post-submission cleaning/organizing and documentation.
 
 # Layout
 
@@ -18,6 +18,5 @@ Ruby scripts that were used to call
 #### tommy
 
 Each folder wraps a different figure from the poster.
-
 
 
