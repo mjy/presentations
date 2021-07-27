@@ -5,6 +5,7 @@ Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentat
 
 # 2021
 * [GLBio](https://github.com/mjy/presentations/tree/master/2021/glbio)
+* [Earth Biogenome workshop](https://github.com/mjy/presentations/tree/master/2021/earth_biogenome)
 
 # 2020
 * [Terrestrial Parasite Tracker Kickoff](https://mjy.github.io/presentations/2020/TerrestrialParasiteTracker/index.html) 
