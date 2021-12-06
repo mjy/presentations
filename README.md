@@ -4,6 +4,7 @@ _These are presentations that contain significant personal opinion that might no
 Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentations/).
 
 # 2021
+* [CODATA](https://github.com/mjy/presentations/tree/master/2021/codata)
 * [TDWG](https://github.com/mjy/presentations/tree/master/2021/tdwg)
 * [GLBio](https://github.com/mjy/presentations/tree/master/2021/glbio)
 * [Earth Biogenome workshop](https://github.com/mjy/presentations/tree/master/2021/earth_biogenome)
