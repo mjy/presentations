@@ -4,18 +4,18 @@ _These are presentations that contain significant personal opinion that might no
 Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentations/).
 
 # 2022
-* [Paleo Happy Hour](https://github.com/mjy/presentations/tree/master/2022/taxonworks_paleo_happy_hour)
+* [Paleo Happy Hour](https://github.com/mjy/presentations/tree/main/2022/taxonworks_paleo_happy_hour)
 
 # 2021
-* [CODATA](https://github.com/mjy/presentations/tree/master/2021/codata)
-* [TDWG](https://github.com/mjy/presentations/tree/master/2021/tdwg)
-* [GLBio](https://github.com/mjy/presentations/tree/master/2021/glbio)
-* [Earth Biogenome workshop](https://github.com/mjy/presentations/tree/master/2021/earth_biogenome)
+* [CODATA](https://github.com/mjy/presentations/tree/main/2021/codata)
+* [TDWG](https://github.com/mjy/presentations/tree/main/2021/tdwg)
+* [GLBio](https://github.com/mjy/presentations/tree/main/2021/glbio)
+* [Earth Biogenome workshop](https://github.com/mjy/presentations/tree/main/2021/earth_biogenome)
 
 # 2020
 * [Terrestrial Parasite Tracker Kickoff](https://mjy.github.io/presentations/2020/TerrestrialParasiteTracker/index.html) 
-* [TDWG Talk](https://github.com/mjy/presentations/tree/master/2020/tdwg_talk)
-* [TDWG Poster](https://github.com/mjy/presentations/tree/master/2020/tdwg_poster)
+* [TDWG Talk](https://github.com/mjy/presentations/tree/main/2020/tdwg_talk)
+* [TDWG Poster](https://github.com/mjy/presentations/tree/main/2020/tdwg_poster)
   * [Biss](https://biss.pensoft.net/article/59170)
 
 
