@@ -4,7 +4,8 @@ _These are presentations that contain significant personal opinion that might no
 Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentations/).
 
 # 2023
-* [Catalogue of Life](https://github.com/mjy/presentations/tree/main/2023/catalogue_of_life/2023/)
+* [Catalogue of Life](https://github.com/mjy/presentations/tree/main/2023/catalogue_of_life/)
+* [SPNCH](https://github.com/mjy/presentations/tree/main/2023/spnch/)
 
 # 2022
 * [Paleo Happy Hour](https://github.com/mjy/presentations/tree/main/2022/taxonworks_paleo_happy_hour)
