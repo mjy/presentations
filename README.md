@@ -3,6 +3,9 @@ _These are presentations that contain significant personal opinion that might no
 
 Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentations/).
 
+# 2024
+* [INHS Departmental Seminar](https://github.com/mjy/presentations/tree/main/2024/inhs/)
+
 # 2023
 * [Catalogue of Life](https://github.com/mjy/presentations/tree/main/2023/catalogue_of_life/)
 * [SPNCH](https://github.com/mjy/presentations/tree/main/2023/spnch/)
