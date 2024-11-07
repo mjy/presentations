@@ -1,0 +1,32 @@
+div.loud {
+  background-color: #ADCAD6;;
+}
+
+.black {
+  background-color: #006E90;
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+a { 
+  color: #F18F01;
+}
+
+.orange {
+  color: #F18F01;
+}
+
+.green {
+  color: ##99C24D;
+}
+
+.ul {
+  color: white;
+}
+
+/* help from https://coolors.co/006e90-f18f01-adcad6-99c24d-41bbd9 */
+
