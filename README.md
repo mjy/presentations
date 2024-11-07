@@ -4,7 +4,7 @@ _These are presentations that contain significant personal opinion that might no
 Also here [https://mjy.github.io/presentations/](https://mjy.github.io/presentations/).
 
 # 2024
-* [Urbana Middle School Social Studies - What's my role](https://github.com/mjy/presentations/tree/main/2024/public/urbana_middle_school_ss/index.html)
+* [Urbana Middle School Social Studies - What's my role](https://mjy.github.io/presentations/2024/public/urbana_middle_school_ss/index.html#/step-1)
 * [INHS Departmental Seminar](https://github.com/mjy/presentations/tree/main/2024/inhs/)
 
 # 2023
